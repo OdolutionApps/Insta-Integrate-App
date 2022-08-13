@@ -7,6 +7,7 @@
     'sequence': 10,
     'description': """Customization in odoo modules  """,
     'category': 'Extra Tools',
+    'author': 'Odolution',
     'license': 'LGPL-3',
     'images' : ['static/description/background.gif'],
     'depends' : ['base'],
