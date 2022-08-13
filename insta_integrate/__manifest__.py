@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name' : ' Instagram',
+    'name' : ' Instagram Integrate App',
     'version' : '1.1',
     'summary': 'Customization',
     'sequence': 10,
