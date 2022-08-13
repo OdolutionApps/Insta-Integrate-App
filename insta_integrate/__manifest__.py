@@ -8,7 +8,7 @@
     'description': """Customization in odoo modules  """,
     'category': 'Extra Tools',
     'license': 'LGPL-3',
-    'images' : [],
+    'images' : ['static/description/background.png'],
     'depends' : ['base'],
     'data': [
         'security/ir.model.access.csv',
